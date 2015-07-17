@@ -274,10 +274,10 @@ img {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+}
 
-    .navbar-brand {
-        margin-top: -15px;
-    }
+.navbar-brand {
+    margin-top: -15px;
 }
 
 header {
