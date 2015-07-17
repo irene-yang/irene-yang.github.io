@@ -15,8 +15,8 @@ color:
 # Team names, titles and social links
 people:
 - name: Marco
-  pic: 1
-  position: Lead Designer
+  pic: marco
+  position: Developer
   social:
     - title: twitter
       url: #
@@ -26,8 +26,8 @@ people:
       url: #
 
 - name: Irene
-  pic: 2
-  position: Lead Marketer
+  pic: irene
+  position: Designer
   social:
     - title: twitter
       url: #
