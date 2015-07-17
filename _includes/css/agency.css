@@ -190,8 +190,8 @@ img {
     height: 50px;
     height: auto;
     float: left;
-    margin: 3px;
-    padding: 3px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .navbar-default .navbar-brand:hover,
