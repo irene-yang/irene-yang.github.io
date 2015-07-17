@@ -189,7 +189,7 @@ img {
     width: 200px;
     height: 40px;
     height: auto;
-    float: left;
+    float: top left;
     margin: 0px;
     padding: 0px;
 }
